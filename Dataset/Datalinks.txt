@@ -1,1 +1,10 @@
 Datalinks:
+
+The ENTSO-E transparency platform: https://transparency.entsoe.eu
+
+BBC News Clawer: https://github.com/LuChang- CS/news- crawler
+
+BBC News front pages: https://dracos.co.uk/made/bbc- news- archive/archive.php
+
+BBC downloaded news: https://1drv.ms/f/s!AuGdRIQWT-F7hT3FQ57nEEk4hrLt?e=rnOmBB
+
