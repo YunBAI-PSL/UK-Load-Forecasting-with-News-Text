@@ -56,11 +56,15 @@ This project uses **electricity demand** and **news datasets**:
 If you use this project in your research, please cite:
 
 ```bibtex
-@article{bai2024newsload,
-  author    = {Yun Bai, Simon Camal, Andrea Michiorri},
-  title     = {News and Load: A Quantitative Exploration of Natural Language Processing Applications for Forecasting Day-ahead Electricity System Demand},
-  journal   = {IEEE Transactions on Smart Grid},
-  year      = {2024}
+@article{bai2024news,
+  title={News and load: A quantitative exploration of natural language processing applications for forecasting day-ahead electricity system demand},
+  author={Bai, Yun and Camal, Simon and Michiorri, Andrea},
+  journal={IEEE Transactions on Power Systems},
+  volume={39},
+  number={5},
+  pages={6222--6234},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
